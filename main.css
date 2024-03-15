@@ -1,0 +1,315 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+/*=========================================header start==============================*/
+
+.nav1div3 .nav1div3btn2 img{
+    width: 30px;
+   
+}
+.nav1div3 .nav1div3btn2{
+     background-color: #febd69;
+}
+.headnav1{
+    background-color: #131921;
+    width: 100%;
+    height: 80px;
+    margin-top: -10px;
+ 
+}
+
+.nav1div4 img{
+    width: 35px;
+}
+.nav1 .nav1div1 img{
+    width: 100px;
+}
+.headnav2{
+    margin-top: -8px;
+}
+.headnav2 ul li{
+    margin-left: 20px;
+}
+.header2{
+    margin-top: -8px;
+ 
+}
+.header2 button{
+    margin-top:-25% ;
+
+}
+
+
+
+/*===========================================header end===================================*/
+
+
+
+
+/*------------------------------------------section1 start-------------------------------*/
+
+
+
+.section1{
+    margin-top: -23%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  
+}
+.section1 .card .cardb{
+    height: 140px;
+}
+.section1 .seccard1, .section1 .seccard2, .section1 .seccard3{
+    width: 320px;
+    height: 410px;
+    margin-bottom: 20px;
+}
+.section1 .seccard1 img, .section1 .seccard2 img{
+    width: 130px;
+}
+
+
+/*-----------------------------------------section1 end---------------------------------*/
+
+
+
+/*------------------------------------------section2 and 3 start-------------------------------*/
+
+
+.section2{
+    width: 95%;
+    height: 280px;
+    background-color: aliceblue;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: auto;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.section2 img{
+    height: 179px;
+}
+.section2 .carousel{
+    width: 99%;
+}
+
+
+
+/*------------------------------------------section2 and 3 end-------------------------------*/
+
+
+
+/*===========================================section4 srart-------------------------------*/
+
+
+.section4 .card {
+    width: 320px;
+    height: 410px;
+    margin-bottom: 20px;
+}
+.section4{
+    width: 95%;
+    display: flex;
+    height: fit-content;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin:50px auto;
+}
+
+
+/*------------------------------------------section4 end-------------------------------*/
+
+
+
+/*===========================================section5 srart-------------------------------*/
+
+
+.section5 img{
+    height: 157px;
+}
+.section5{
+    width: 95%;
+    height: 295px;
+    background-color: aliceblue;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.section5 .carousel-inner{
+    margin-top: 30px;
+}
+.section5 .carousel{
+    width: 99%;
+}
+
+
+/*===========================================section5 end-------------------------------*/
+
+
+
+/*===========================================section6 srart-------------------------------*/
+
+
+.section6{
+    width: 95%;
+    display: flex;
+    height: fit-content;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin:50px auto;
+}
+.section6 .card{
+    width: 320px;
+    height: 410px;
+    margin-bottom: 20px;
+}
+
+
+/*------------------------------------------section6 end-------------------------------*/
+
+
+
+/*===========================================section7 start-------------------------------*/
+
+
+.section7 img{
+    height: 150px;
+}
+.section7{
+    width: 96%;
+    height: 300px;
+    background-color: aliceblue;
+    margin: auto;
+}
+.section7 .carousel{
+    width: 99%;
+    height: fit-content;
+    margin:20px auto;
+}
+.section7 h4{
+    margin: 20px;
+}
+
+
+
+/*------------------------------------------section7 end-------------------------------*/
+
+
+
+/*===========================================section8 start-------------------------------*/
+
+
+.section8{
+    width: 95%; 
+    margin:60px auto;
+    background-color: aliceblue;
+    height: 290px;
+}
+.section8 img{
+    width: 185px;
+}
+.section8 .carousel{
+    width: 98%;
+    margin: auto;
+}
+
+
+
+/*------------------------------------------section8 end-------------------------------*/
+
+
+
+/*===========================================footer start-------------------------------*/
+
+
+.footer{
+    width: 100%;
+}
+.subfooter1{
+    width: 98%;
+    margin: 10px auto;
+    height: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.subfooter2{
+    overflow: hidden;
+}
+.subfooter1box2 {
+    width: 280px;
+    overflow: hidden;
+}
+
+.subfooter2box1{
+    background-color:#37475a ;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subfooter2box1 p{
+    margin-top: 17px;
+    display: flex;
+    align-self: center;
+    justify-self: center;
+}
+.subfooter2box22{
+     background-color:#232f3e;
+}
+.subfooter2box2{
+    height: 500px;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: auto;
+}
+.subfooter2box2 div{
+    margin-top: 50px;
+}
+.subfooter2box2 ul li{
+    margin: 10px 0;
+    line-height: 25px;
+    cursor: pointer;
+}
+.subfooter3{
+    background-color: #232f3e;
+    height: 120px;
+    border-top: 0.5px solid rgba(255, 255, 255, 0.425);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.subfooter3box2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 400px;
+    margin-left: 30px;
+}
+.subfooter4{
+    background-color: #131a22;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.subfooter4 span{
+    color: #fff;
+}
